@@ -17,7 +17,14 @@ npm install --save-dev nodemon
 "start": "nodemon server.js"
 ```
     
+## Technologies
+
+Here are the technologies I used for this app
+
+- [Express.js](https://expressjs.com)
+- [Node.js](https://nodejs.org/en/)
+
 ## Screenshots
 
-![App Screenshot](https://postimg.cc/Fd7K8mgd)
+![Login](https://raw.githubusercontent.com/gregorboznar/CRUD-To-Do/master/Screenshot.png?token=GHSAT0AAAAAABZCZNK6BJVREWV3YET54DP4Y2ZH3LA)
 
