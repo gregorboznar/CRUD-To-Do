@@ -26,5 +26,5 @@ Here are the technologies I used for this app
 
 ## Screenshots
 
-![Login](https://raw.githubusercontent.com/gregorboznar/CRUD-To-Do/master/Screenshot.png?token=GHSAT0AAAAAABZCZNK6BJVREWV3YET54DP4Y2ZH3LA)
+![Login](https://raw.githubusercontent.com/gregorboznar/CRUD-To-Do/master/Screenshot.png?token=GHSAT0AAAAAABZCZNK6YZKF4DT3FW5NQMECY2ZIEYA)
 
