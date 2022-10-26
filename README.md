@@ -23,6 +23,7 @@ Here are the technologies I used for this app
 
 - [Express.js](https://expressjs.com)
 - [Node.js](https://nodejs.org/en/)
+- [MongoDB](https://www.mongodb.com)
 
 ## Screenshots
 
